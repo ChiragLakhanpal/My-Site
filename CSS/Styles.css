@@ -58,11 +58,11 @@ a:hover{
 }
 
 hr {
-  color: #706c61;
+  color: #000000;
   width: 10%;
   border-style: none;
-  border-top: dotted 10px;
-
+  border-top: solid 3px;
+  border-radius: 20px;
 }
 
 .profile {
